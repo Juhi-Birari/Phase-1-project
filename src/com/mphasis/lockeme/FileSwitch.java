@@ -106,7 +106,9 @@ public static void main(String[] args) throws IOException {
 		break;
 	
 	case 3:
-		
+		System.ot.println("Goto main menu");
+		System.out.println();
+		break;
 	case 4:
 		System.exit(0);
 		
